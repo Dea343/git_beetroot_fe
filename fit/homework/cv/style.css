@@ -1,0 +1,32 @@
+body {
+font-family: Arial, sans-serif;
+background-color: lightblue;
+color: #333;
+margin: 0;
+padding: 0;
+
+}
+
+section {
+background-color: lightblue;
+border: 1px solid darkblue;
+padding: 10px;
+margin-bottom: 15px;
+}
+
+h1 {
+text-align: center;
+color: #2c3e50;
+}
+
+
+h2 {
+color: #1a73e8;
+border-bottom: 2px solid #1a73e8;
+padding-bottom: 5px;
+}
+
+
+p {
+line-height: 1.6;
+}
